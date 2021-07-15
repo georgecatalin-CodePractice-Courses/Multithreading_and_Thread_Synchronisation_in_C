@@ -1,0 +1,2 @@
+# Multithreading_and_Thread_Synchronisation_in_C
+Code work associated with the Udemy course "Multithreading_and_Thread_Synchronisation" authored by Abhishek CSEPracticals
