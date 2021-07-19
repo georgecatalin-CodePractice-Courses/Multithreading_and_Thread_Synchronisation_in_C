@@ -1,5 +1,5 @@
 # Multithreading_and_Thread_Synchronisation_in_C
-Code work associated with the Udemy course "Multithreading_and_Thread_Synchronisation" authored by Abhishek CSEPracticals
+Code work associated with the Udemy course "Multithreading_and_Thread_Synchronisation" authored by Abhishek CSEPracticals" (part)
 
 URL of the course: https://www.udemy.com/course/multithreading_parta/learn/lecture/
 
